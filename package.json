@@ -13,7 +13,7 @@
     "client": "npm start --prefix frontend",
     "client:build": "npm run build --prefix frontend"
   },
-  "author": "Miljan",
+  "author": "Sergii",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",

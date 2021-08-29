@@ -12,7 +12,7 @@ const sendEmail = (recipient, message) => {
   })
   return new Promise((resolve, reject) => {
     const data = {
-      from : 'Miljan E-Commerce',
+      from : 'Sergii E-Commerce',
       to: recipient,
       subject: message.subject,
       text: message.text
